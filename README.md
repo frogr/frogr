@@ -1,6 +1,4 @@
-<div style="width:100%; max-height:220px; overflow:hidden; border-radius:8px;">
-  <img src="https://github.com/user-attachments/assets/50738a73-851e-48a3-a96e-7683876d03a3" style="width:100%; object-fit:cover;" />
-</div>
+![image](https://github.com/user-attachments/assets/24c69ffd-b7fc-4d0a-a3e2-78450c75ab5d)
 
 ## ME
 Full stack software engineer. Interested in exploring the intersections of the internet, programming, philosophy, and ethics. 
