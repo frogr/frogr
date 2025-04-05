@@ -1,9 +1,22 @@
-### heyo!
+## ME
+Ruby on Rails software engineer. Full-stack developer interested in ruby, javascript, python, AI, and other technologies.
+I love learning. I'm interested in exploring the intersections of the internet, programming, philosophy, and ethics. 
+The future is coming. You can either be ready or not. Until then, I'll be doing everything I can to expand my abilities. 
 
-I'm a ruby on rails developer. I recently started a hashnode blog, visible at blog.austn.net.
+## EXP
+Currently working as a Backend Engineer @ [CompanyCam](https://companycam.com/)  
+Previously @ [Backlit](https://www.getbacklit.com/), [CoverMyMeds](https://www.covermymeds.health/)/[McKesson](https://www.mckesson.com/), [T2 Modus](https://t2modus.com/)  
+Alumni @ [BloomTech](https://www.bloomtech.com/) (F.K.A. Lambda School)
 
-Lately I've been working a lot within rails, but I also have experience with javascript, specifically the MERN stack, and a little bit of elixir. I've tinkered around with game development, but haven't built anything worth sharing yet.
+## CONTACT
+Feel free to reach me at austindanielfrench AT gmail.com.  
+I keep a blog at [blog.austn.net](https://blog.austn.net), and my personal website's at that [primary domain](https://austn.net), where I curate a selection of blog posts, personal projects, and other writing.
 
-I love esports and other forms of competition. I believe that a masterful performance is always worth watching, regardless of the field it takes place in. I used to play League of Legends and Overwatch at a high level, and so I have a deep attachment to those worlds.
+## TECH STACK
+```
+Ruby | Rails | JavaScript | React | PostgreSQL | Python | Git | Anything can be learned in like two weeks
+```
 
-I'm always interested in collaborating on cool new ideas or helping newer developers improve at their craft, if I can. Feel free to reach out and I'll get back to you as soon as possible!
+---
+
+💬 Open to collaboration and interesting projects, feel free to say hello!
